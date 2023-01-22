@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Samuel García</title>
+    <link>https://samythelight.github.io/Samuel_Portfolio_2023/post/</link>
+    <description>Recent content in Projects on Samuel García</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://samythelight.github.io/Samuel_Portfolio_2023/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 2: GExpenses</title>
+      <link>https://samythelight.github.io/Samuel_Portfolio_2023/post/project-2/</link>
+      <pubDate>Thu, 10 Nov 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://samythelight.github.io/Samuel_Portfolio_2023/post/project-2/</guid>
+      <description>Este proyecto está elaborado por Joan Canals, Oscar Ramírez y Samuel García. El propósito central de este proyecto es el desarrollo de una página web para gestionar las cuentas de un grupo de personas al realizar un viaje.
+Link al repositorio git</description>
+    </item>
+    
+    <item>
+      <title>Proyecto 1: GymWRat</title>
+      <link>https://samythelight.github.io/Samuel_Portfolio_2023/post/project-1/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://samythelight.github.io/Samuel_Portfolio_2023/post/project-1/</guid>
+      <description>Este proyecto está elaborado por Alexandru Cruceat, Oscar Ramírez, Eric Salazar y Samuel García. la idea principal de este proyecto es la creación de una pagina web sobre desportes y bienestar. Es un proyecto que desarrollamos durante todo el curso de DAW.
+Link al repositorio git</description>
+    </item>
+    
+  </channel>
+</rss>
